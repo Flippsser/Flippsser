@@ -4,7 +4,7 @@
 <h2 align="center">My statistics</h2> 
 <p align="center">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&show_icons=true&locale=en&layout=large&theme=chartreuse-dark" alt="ovi" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <br>
  </p>
 <h2 align = "center">You have the opportunity to connect with me</h2>
 <p align="center">
