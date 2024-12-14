@@ -12,7 +12,7 @@
  </p>
 <h2 align = "center">You have the opportunity to connect with me</h2>
 <p align="center">
-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mishabraz07@gmail.com"  />
+   <img src="https://img.shields.io/static/v1?message=mishabraz07@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </p>
 
 
