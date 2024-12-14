@@ -9,7 +9,7 @@
 <br>
   
 </p>
-<h2 align = "center">How you can connect with me</h2>
+<h2 align = "center">You have the opportunity to connect with me</h2>
 <p align="center">
   </a>
    <a href="mailto:mishabraz07@gmail.com">
