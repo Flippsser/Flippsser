@@ -6,7 +6,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flippsser)](https://github.com/Flippsser/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flippsser)](https://github.com/Flippssers/github-readme-stats)
+[![Flippsser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flippsser)](https://github.com/Flippssers/github-readme-stats)
 
 <p align="center">
 <br>
