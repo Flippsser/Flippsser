@@ -6,11 +6,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flippsser)](https://github.com/Flippsser/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flippsser)](https://github.com/Flippssers/github-readme-stats)
 
 <p align="center">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&show_icons=true&locale=en&layout=large&theme=chartreuse-dark" alt="ovi" /> <br>
 
   
 </p>
