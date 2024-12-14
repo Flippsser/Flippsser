@@ -5,7 +5,7 @@
 <h2 align="center">My statistics</h2> 
 <p align="center">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artaka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <br>
 
   
 </p>
