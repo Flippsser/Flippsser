@@ -17,4 +17,5 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flippsser)](https://github.com/Flippsser/github-readme-stats)
 
