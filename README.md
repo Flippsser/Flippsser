@@ -10,7 +10,7 @@
   
 </p>
 <h2 align = "center">How you can connect with me</h2>
-  </a>
+  </a  align="center">
    <a href="mailto:mishabraz07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
