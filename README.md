@@ -19,3 +19,4 @@
 
 
 
+![snake gif](https://github.com/Flippsser/Flippsser/blob/output/github-snake-dark.svg)
