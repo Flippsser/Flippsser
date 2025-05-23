@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+![snake gif](https://github.com/Flippsser/Flippsser/blob/output/github-snake-dark.svg)
+
 ###
  </p>
 <h2 align = "center">You have the opportunity to connect with me</h2>
@@ -19,4 +21,4 @@
 
 
 
-![snake gif](https://github.com/Flippsser/Flippsser/blob/output/github-snake-dark.svg)
+
