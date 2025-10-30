@@ -4,7 +4,7 @@
 <h2 align="center">My statistics</h2> 
 <p align="center">
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=Flippsser&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flippsser&theme=dark&background=000000)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flippsser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
